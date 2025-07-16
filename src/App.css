@@ -8,4 +8,19 @@
   max-width: 400px;
   font-family: Arial, sans-serif;
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
 
+th, td {
+  border: 1px solid #aaa;
+  padding: 8px 12px;
+  text-align: left;
+  color: black;
+}
+
+th {
+  background-color: #e0f0ff;
+}
