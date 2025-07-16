@@ -4,15 +4,14 @@ import Market from './components/task2/Market'
 import StudentRecord from './components/task3/StudentRecord'
 
 function App() {
-
   return (
     <div>
-      <ProfileComponent/>
-      <HobbieComponent/>
-      <Market/>
-      <StudentRecord/>
+      <ProfileComponent />
+      <HobbieComponent />
+      <Market />
+      <StudentRecord />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
